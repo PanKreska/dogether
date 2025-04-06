@@ -1,0 +1,7 @@
+{
+  "name": "dogether",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
